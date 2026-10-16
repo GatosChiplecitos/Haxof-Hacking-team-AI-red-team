@@ -1,0 +1,29 @@
+# Configuración local y credenciales
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Dependencias, entornos y cachés
+.venv/
+venv/
+node_modules/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Archivos temporales y del sistema
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.tmp
+*.swp
+~$*
+
+# Configuración personal del editor
+.vscode/
+.idea/
