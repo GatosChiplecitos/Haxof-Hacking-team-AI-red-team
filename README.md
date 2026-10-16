@@ -45,4 +45,4 @@ El contenido de Hacking se mantiene en `areas/hacking/`. Las otras áreas del eq
 
 ## Acceso
 
-Este repositorio está destinado a compartirse de forma privada con el equipo. El acceso y la ubicación definitiva en una organización se gestionan en GitHub.
+La estructura inicial se comparte públicamente para que el equipo pueda evaluarla. Se prevé volver a la visibilidad privada antes de incorporar investigaciones internas. El acceso y la ubicación definitiva en una organización se gestionan en GitHub.
