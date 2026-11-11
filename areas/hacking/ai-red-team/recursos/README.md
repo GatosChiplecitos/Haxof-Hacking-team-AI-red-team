@@ -6,10 +6,9 @@ Añadir título, autor o entidad, enlace, fecha de consulta y una nota breve sob
 
 ## Índice
 
-Todavía no hay aportes registrados. Al añadir el primero, sustituir esta frase por una entrada en la tabla:
-
 | Documento | Descripción | Estado |
 | --- | --- | --- |
+| [Ruta de estudio de AI Security](ruta-de-estudio-ai-security.md) | TryHackMe, AISB, PortSwigger, OWASP, MITRE, NIST y herramientas para profundizar en Prompt Security y AI Supply Chain Security. | Por explorar |
 
 ## Añadir un aporte
 
