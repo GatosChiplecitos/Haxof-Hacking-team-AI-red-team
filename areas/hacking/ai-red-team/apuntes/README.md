@@ -6,10 +6,11 @@ Usar un archivo por tema y distinguir las observaciones propias de las fuentes c
 
 ## Índice
 
-Todavía no hay aportes registrados. Al añadir el primero, sustituir esta frase por una entrada en la tabla:
-
 | Documento | Descripción | Estado |
 | --- | --- | --- |
+| [Prompt Injection](prompt-injection.md) | Límites de confianza, inyección directa e indirecta, riesgos y mitigación. | Por explorar |
+| [Jailbreaking](jailbreaking.md) | Alineación, salvaguardas, ataques de varios turnos y evaluación. | Por explorar |
+| [Prompt Defense](prompt-defense.md) | Defensa en profundidad, guardrails y controles independientes. | Por explorar |
 
 ## Añadir un aporte
 
