@@ -11,6 +11,7 @@ Usar un archivo por tema y distinguir las observaciones propias de las fuentes c
 | [Prompt Injection](prompt-injection.md) | Límites de confianza, inyección directa e indirecta, riesgos y mitigación. | Por explorar |
 | [Jailbreaking](jailbreaking.md) | Alineación, salvaguardas, ataques de varios turnos y evaluación. | Por explorar |
 | [Prompt Defense](prompt-defense.md) | Defensa en profundidad, guardrails y controles independientes. | Por explorar |
+| [Cadena de suministro de IA](ai-supply-chain.md) | Procedencia de modelos, datos y dependencias, riesgos y controles. | Por explorar |
 
 ## Añadir un aporte
 
