@@ -12,6 +12,7 @@ Usar un archivo por tema y distinguir las observaciones propias de las fuentes c
 | [Jailbreaking](jailbreaking.md) | Alineación, salvaguardas, ataques de varios turnos y evaluación. | Por explorar |
 | [Prompt Defense](prompt-defense.md) | Defensa en profundidad, guardrails y controles independientes. | Por explorar |
 | [Cadena de suministro de IA](ai-supply-chain.md) | Procedencia de modelos, datos y dependencias, riesgos y controles. | Por explorar |
+| [Vectores de ataque en la cadena de suministro de IA](ai-supply-chain-attack-vectors.md) | Carga de modelos, resolución de dependencias, procedencia y riesgos de APIs. | Por explorar |
 
 ## Añadir un aporte
 
